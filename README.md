@@ -16,8 +16,8 @@ This project develops and evaluates a state-of-the-art deep learning model for t
 brain\_hemorrhage\_classification/  
 ├── data/  
 │   ├── raw/                \<-- Place your original 6 class folders here  
-│   ├── synthetic/          \<-- Created by Step 2.1  
-│   └── processed/          \<-- Created by Step 2.2  
+│   ├── synthetic/          
+│   └── processed/          
 ├── outputs/  
 │   ├── checkpoints/  
 │   ├── logs/  
